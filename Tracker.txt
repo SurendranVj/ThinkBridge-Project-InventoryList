@@ -1,0 +1,26 @@
+Tracking:
+1. Data Store and Design:
+    1. DataBase Creation
+    2. Table Creation
+
+       Took approximately 10 minutes
+
+2. Api and service logic
+   Created two projects in single solution
+    1. WebApi
+       -Using Entity framework created models 
+       -Controllers for CRUD operation
+
+        Took approximately 20 minutes
+
+    2. Mvc
+       - Model Creation
+       - Controller Creation
+       - WebApiCall From MVC
+       - View creation for each action
+
+         Took approximately 2hours
+
+3. Unit Testing 
+
+    15minutes
